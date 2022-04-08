@@ -1,0 +1,12 @@
+name: SorceryCraft
+description:
+version: 0.1
+main: sorcerycraft.main.SorceryCraft
+api-version: 1.16
+commands:
+  sorcery:
+    description: Primary command for SorceryCraft.
+    usage:
+  sc:
+    description: Primary command for SorceryCraft.
+    usage:
